@@ -1,6 +1,6 @@
 # My Learning Achievements
 
-A log of my development skills, certificates, learning and books.
+A log of my development skills, learning, certificates and books readed.
 
 ----
 
@@ -12,6 +12,7 @@ A log of my development skills, certificates, learning and books.
 |:--------------------------------:|:-------------:|:-------------:|:--------------:|
 |**C# & .NET & .NET Core**         | ![done][done] | ![done][done] | ![done][done]  | 
 |**ASP.NET MVC & ASP.NET Core**    | ![done][done] | ![done][done] | ![done][done]  |
+|**SQL**                           | ![done][done] | ![done][done] | ![done][done]  |
 |**Haskell**                       | ![done][done] |               |                |
 |**F#**                            | ![done][done] |               |                |
 |**PHP**                           | ![done][done] |               |                |
@@ -55,6 +56,33 @@ A log of my development skills, certificates, learning and books.
 | ![In Progress][In Progress] |          | [Высшая Школа Программирования Сергея Бобровского]              |                                                           |
 | ![Soon][Soon]               |          | [Python-программист] - Hexlet                                   |                                                           |
 | ![Soon][Soon]               |          | [Верстальщик] - Hexlet                                          |                                                           |
+
+----
+
+## Books
+
+* Kent Beck - Test-Driven Development by Example
+* Scott Millet, Nick Tune - Patterns, Principles, and Practices of Domain-Driven Design
+* Daniel Solis, Cal Schrotenboer - Illustrated C# 7
+* Eric Freeman, Elisabeth Freeman, Kathy Sierra, Bert Bates - Head First: Design Patterns
+* Денис Шевченко - О Haskell по-человечески
+* Robert Martin - The Clean Coder
+* Markus Winand - SQL Performance Explained
+* Сергей Тепляков - Паттерны проектирования на платформе .NET
+* Stephen Cleary - Concurrency in C# Cookbook
+* Поликарпова, Шалыто - Автоматное программирование
+* Wladston Ferreira Filho - Computer Science Distilled
+* Alex Davies - Async in C# 5.0
+* Barbara Oakley - A mind for numbers
+* Карлос Буэно - Продуманная оптимизация
+* Mark Seemann - Dependency Injection in .NET
+* Aditya Bhargava - Grokking Algorithms
+* Steve Krug - Don't make me think!
+* Joel Spolsky - More Joel on Software
+* Joel Spolsky - Joel on Software
+* Charles Petzold - Code
+* Шмидт - Как работает Google
+* Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов - Design Patterns via C#. Приемы объектно-ориентированного проектирования
 
 ----
 
