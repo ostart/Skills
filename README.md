@@ -1,6 +1,6 @@
 # My Learning Achievements
 
-A log of my development skills, learning, certificates and books readed.
+My development skills, learning, certificates and books I've read.
 
 ----
 
@@ -10,7 +10,7 @@ A log of my development skills, learning, certificates and books readed.
 
 |               Skill              | 1<br>Basics   | 2<br>Good     | 3<br>Confident | 
 |:--------------------------------:|:-------------:|:-------------:|:--------------:|
-|**C# & .NET & .NET Core**         | ![done][done] | ![done][done] | ![done][done]  | 
+|**C# / .NET & .NET Core**         | ![done][done] | ![done][done] | ![done][done]  | 
 |**ASP.NET MVC & ASP.NET Core**    | ![done][done] | ![done][done] | ![done][done]  |
 |**SQL**                           | ![done][done] | ![done][done] | ![done][done]  |
 |**Haskell**                       | ![done][done] |               |                |
@@ -59,7 +59,7 @@ A log of my development skills, learning, certificates and books readed.
 
 ----
 
-## Books
+## Recommended Books I've read
 
 * Kent Beck - Test-Driven Development by Example
 * Scott Millet, Nick Tune - Patterns, Principles, and Practices of Domain-Driven Design
