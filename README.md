@@ -61,6 +61,8 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Бен Уотсон - Высокопроизводительный код на платформе .NET. 2-е изд.
+* Дэвид Томас, Эндрю Хант - Программист-прагматик. Ваш путь к мастерству. 2-е изд.
 * Kent Beck - Test-Driven Development by Example
 * Scott Millet, Nick Tune - Patterns, Principles, and Practices of Domain-Driven Design
 * Daniel Solis, Cal Schrotenboer - Illustrated C# 7
