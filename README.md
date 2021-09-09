@@ -54,8 +54,8 @@ My development skills, learning, certificates and books I've read.
 | ![Completed][Completed]     | 2021     | [React марафон] - Зар Захаров                                   | https://disk.yandex.ru/i/YAkPfqtxix8bGA                   |
 | ![In Progress][In Progress] |          | [PHP-программист] - Hexlet                                      |                                                           |
 | ![In Progress][In Progress] |          | [Высшая Школа Программирования Сергея Бобровского]              |                                                           |
-| ![Soon][Soon]               |          | [Python-программист] - Hexlet                                   |                                                           |
-| ![Soon][Soon]               |          | [Верстальщик] - Hexlet                                          |                                                           |
+| ![In Progress][In Progress] |          | [Python-программист] - Hexlet                                   |                                                           |
+| ![In Progress][In Progress] |          | [Верстальщик] - Hexlet                                          |                                                           |
 
 ----
 
