@@ -61,6 +61,7 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Сэнди Метц - Ruby. Объектно-ориентированное проектирование
 * Бен Уотсон - Высокопроизводительный код на платформе .NET. 2-е изд.
 * Дэвид Томас, Эндрю Хант - Программист-прагматик. Ваш путь к мастерству. 2-е изд.
 * Kent Beck - Test-Driven Development by Example
