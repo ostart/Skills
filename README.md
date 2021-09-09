@@ -15,6 +15,7 @@ My development skills, learning, certificates and books I've read.
 |**SQL**                           | ![done][done] | ![done][done] | ![done][done]  |
 |**Haskell**                       | ![done][done] |               |                |
 |**F#**                            | ![done][done] |               |                |
+|**Python**                        | ![done][done] |               |                |
 |**PHP**                           | ![done][done] |               |                |
 |**HTML5 & CSS3**                  | ![done][done] | ![done][done] |                | 
 |**JavaScript & ES6**              | ![done][done] | ![done][done] |                |
