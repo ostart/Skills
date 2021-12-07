@@ -53,15 +53,17 @@ My development skills, learning, certificates and books I've read.
 | ![Completed][Completed]     | 2019     | [Функциональное программирование на языке Haskell] - Stepik     | https://stepik.org/cert/243333                            |
 | ![Completed][Completed]     | 2020     | [React марафон] - Зар Захаров                                   | https://disk.yandex.ru/i/-Xf7SsLKVqydzA                   |
 | ![Completed][Completed]     | 2021     | [React марафон] - Зар Захаров                                   | https://disk.yandex.ru/i/YAkPfqtxix8bGA                   |
+| ![Completed][Completed]     | 2021     | [Верстальщик] - Hexlet                                          |                                                           |
 | ![In Progress][In Progress] |          | [PHP-программист] - Hexlet                                      |                                                           |
 | ![In Progress][In Progress] |          | [Высшая Школа Программирования Сергея Бобровского]              |                                                           |
 | ![In Progress][In Progress] |          | [Python-программист] - Hexlet                                   |                                                           |
-| ![In Progress][In Progress] |          | [Верстальщик] - Hexlet                                          |                                                           |
+
 
 ----
 
 ## Recommended Books I've read
 
+* Роберт Мартин - Чистая архитектура. Искусство разработки программного обеспечения
 * Джон Сонмез - Путь программиста. Человек эпохи IT
 * Роберт Мартин - Чистый код. Создание, анализ и рефакторинг
 * Сэнди Метц - Ruby. Объектно-ориентированное проектирование
