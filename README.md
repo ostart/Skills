@@ -63,6 +63,7 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Джуст Виссер - Разработка обслуживаемых программ на языке C#
 * Роберт Мартин - Чистая архитектура. Искусство разработки программного обеспечения
 * Джон Сонмез - Путь программиста. Человек эпохи IT
 * Роберт Мартин - Чистый код. Создание, анализ и рефакторинг
@@ -91,6 +92,7 @@ My development skills, learning, certificates and books I've read.
 * Charles Petzold - Code
 * Шмидт - Как работает Google
 * Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов - Design Patterns via C#. Приемы объектно-ориентированного проектирования
+* Джеффри Рихтер - CLR via C#. Программирование на платформе Microsoft.NET Framework 4.5 на языке C#
 
 ----
 
