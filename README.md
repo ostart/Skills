@@ -63,6 +63,9 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Роберт Мартин - Чистый Agile. Основы гибкости
+* Halil İbrahim Kalkan - Implementing Domain Driven Design
+* Joe Mayo - C# Cookbook. Modern Recipes for Professional Developers
 * Джуст Виссер - Разработка обслуживаемых программ на языке C#
 * Роберт Мартин - Чистая архитектура. Искусство разработки программного обеспечения
 * Джон Сонмез - Путь программиста. Человек эпохи IT
