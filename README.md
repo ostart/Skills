@@ -63,6 +63,8 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Фредерик Брукс - Мифический человеко-месяц
+* Александр Швец - Погружение в паттерны проектирования
 * Роберт Мартин - Чистый Agile. Основы гибкости
 * Halil İbrahim Kalkan - Implementing Domain Driven Design
 * Joe Mayo - C# Cookbook. Modern Recipes for Professional Developers
