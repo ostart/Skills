@@ -27,6 +27,7 @@ My development skills, learning, certificates and books I've read.
 |**Command line**                  | ![done][done] | ![done][done] |                |
 |**Markdown**                      | ![done][done] | ![done][done] | ![done][done]  |
 |**Node.js & NPM**                 | ![done][done] |               |                |
+|**DOcker**                        | ![done][done] |               |                |
 |**Open Source Contribution**      |               |               |                |
 
 ----
@@ -54,8 +55,8 @@ My development skills, learning, certificates and books I've read.
 | ![Completed][Completed]     | 2020     | [React марафон] - Зар Захаров                                   | https://disk.yandex.ru/i/-Xf7SsLKVqydzA                   |
 | ![Completed][Completed]     | 2021     | [React марафон] - Зар Захаров                                   | https://disk.yandex.ru/i/YAkPfqtxix8bGA                   |
 | ![Completed][Completed]     | 2021     | [Верстальщик] - Hexlet                                          |                                                           |
+| ![Completed][Completed]     | 2022     | [Высшая Школа Программирования Сергея Бобровского]              |                                                           |
 | ![In Progress][In Progress] |          | [PHP-программист] - Hexlet                                      |                                                           |
-| ![In Progress][In Progress] |          | [Высшая Школа Программирования Сергея Бобровского]              |                                                           |
 | ![In Progress][In Progress] |          | [Python-программист] - Hexlet                                   |                                                           |
 
 
@@ -63,6 +64,9 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Marinko Spasojevic, Vladimir Pecanac - Ultimate ASP.NET Core Web API Premium
+* Андрей Акиньшин - Профессиональный бенчмарк
+* Алекс Сюй - System Design. Подготовка к сложному интервью
 * Фредерик Брукс - Мифический человеко-месяц
 * Александр Швец - Погружение в паттерны проектирования
 * Роберт Мартин - Чистый Agile. Основы гибкости
