@@ -67,6 +67,7 @@ My development skills, learning, certificates and books I've read.
 * Marinko Spasojevic, Vladimir Pecanac - Ultimate ASP.NET Core Web API Premium
 * Андрей Акиньшин - Профессиональный бенчмарк
 * Алекс Сюй - System Design. Подготовка к сложному интервью
+* Харольд Абельсон, Джеральд Сассман - Структура и интерпретация компьютерных программ
 * Фредерик Брукс - Мифический человеко-месяц
 * Александр Швец - Погружение в паттерны проектирования
 * Роберт Мартин - Чистый Agile. Основы гибкости
