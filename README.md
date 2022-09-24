@@ -64,6 +64,7 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Marinko Spasojevic, Vladimir Pecanac - Dockerizing ASP.NET Core Application
 * Marinko Spasojevic, Vladimir Pecanac - Ultimate ASP.NET Core Web API Premium
 * Андрей Акиньшин - Профессиональный бенчмарк
 * Алекс Сюй - System Design. Подготовка к сложному интервью
