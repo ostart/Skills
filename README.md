@@ -64,6 +64,8 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Владимир Хориков - Принципы юнит-тестирования
+* Рой Ошероув - Искусство автономного тестирования с примерами на С#
 * Marinko Spasojevic, Vladimir Pecanac - Dockerizing ASP.NET Core Application
 * Marinko Spasojevic, Vladimir Pecanac - Ultimate ASP.NET Core Web API Premium
 * Андрей Акиньшин - Профессиональный бенчмарк
