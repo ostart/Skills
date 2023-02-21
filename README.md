@@ -23,9 +23,10 @@ My development skills, learning, certificates and books I've read.
 |**Git bash & GitHub**             | ![done][done] | ![done][done] |                |
 |**Bootstrap & jQuery**            | ![done][done] |               |                |
 |**React & Redux**                 | ![done][done] |               |                |
+|**Angular**                       | ![done][done] |               |                |
 |**Task runners Gulp/Grunt**       | ![done][done] |               |                |
 |**Command line**                  | ![done][done] | ![done][done] |                |
-|**Markdown**                      | ![done][done] | ![done][done] | ![done][done]  |
+|**Markdown**                      | ![done][done] | ![done][done] |                |
 |**Node.js & NPM**                 | ![done][done] |               |                |
 |**Docker**                        | ![done][done] |               |                |
 |**Open Source Contribution**      |               |               |                |
