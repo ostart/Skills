@@ -56,7 +56,7 @@ My development skills, learning, certificates and books I've read.
 | ![Completed][Completed]     | 2021     | [React марафон] - Зар Захаров                                   | https://disk.yandex.ru/i/YAkPfqtxix8bGA                   |
 | ![Completed][Completed]     | 2021     | [Верстальщик] - Hexlet                                          |                                                           |
 | ![Completed][Completed]     | 2022     | [Высшая Школа Программирования Сергея Бобровского]              |                                                           |
-| ![Completed][In Completed]  | 2023     | [System Design] - Balun.Courses                                 | https://disk.yandex.ru/i/D-cs4DJBnsgihg                   |
+| ![Completed][Completed]     | 2023     | [System Design] - Balun.Courses                                 | https://disk.yandex.ru/i/D-cs4DJBnsgihg                   |
 
 
 ----
