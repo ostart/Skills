@@ -16,20 +16,19 @@ My development skills, learning, certificates and books I've read.
 |**Haskell**                       | ![done][done] |               |                |
 |**F#**                            | ![done][done] |               |                |
 |**Python**                        | ![done][done] |               |                |
-|**PHP**                           | ![done][done] |               |                |
 |**HTML5 & CSS3**                  | ![done][done] | ![done][done] |                | 
-|**JavaScript & ES6**              | ![done][done] | ![done][done] |                |
+|**JavaScript & TypeScript**       | ![done][done] | ![done][done] |                |
 |**Css Grid & Flex-box**           | ![done][done] | ![done][done] |                |
 |**Git bash & GitHub**             | ![done][done] | ![done][done] |                |
 |**Bootstrap & jQuery**            | ![done][done] |               |                |
 |**React & Redux**                 | ![done][done] |               |                |
 |**Angular**                       | ![done][done] |               |                |
-|**Task runners Gulp/Grunt**       | ![done][done] |               |                |
+|**Wireshark**                     | ![done][done] | ![done][done] |                |
 |**Command line**                  | ![done][done] | ![done][done] |                |
 |**Markdown**                      | ![done][done] | ![done][done] |                |
-|**Node.js & NPM**                 | ![done][done] |               |                |
-|**Docker**                        | ![done][done] |               |                |
-|**Open Source Contribution**      |               |               |                |
+|**PlantUML**                      | ![done][done] | ![done][done] |                |
+|**Docker**                        | ![done][done] | ![done][done] |                |
+|**Open Source Contribution**      | ![done][done] |               |                |
 
 ----
 
@@ -57,8 +56,7 @@ My development skills, learning, certificates and books I've read.
 | ![Completed][Completed]     | 2021     | [React марафон] - Зар Захаров                                   | https://disk.yandex.ru/i/YAkPfqtxix8bGA                   |
 | ![Completed][Completed]     | 2021     | [Верстальщик] - Hexlet                                          |                                                           |
 | ![Completed][Completed]     | 2022     | [Высшая Школа Программирования Сергея Бобровского]              |                                                           |
-| ![In Progress][In Progress] |          | [PHP-программист] - Hexlet                                      |                                                           |
-| ![In Progress][In Progress] |          | [Python-программист] - Hexlet                                   |                                                           |
+| ![Completed][In Completed]  | 2023     | [System Design] - Balun.Courses                                 | https://disk.yandex.ru/i/D-cs4DJBnsgihg                   |
 
 
 ----
