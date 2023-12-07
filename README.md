@@ -63,6 +63,7 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Mark Seemann - Code That Fits in Your Head. Heuristics for Software Engineering
 * Марина Перескокова - Мама, я тимлид! Практические советы по руководству IT-командой
 * Мартин Фаулер - Рефакторинг. Улучшение проекта существующего кода
 * Владимир Швец - От джуна до сеньора. Как стать востребованным разработчиком
