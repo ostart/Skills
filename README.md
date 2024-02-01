@@ -63,6 +63,7 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Джин Ким, Кевин Бер, Джордж Спаффорд - Проект «Феникс». Роман о том, как DevOps меняет бизнес к лучшему
 * Mark Seemann - Code That Fits in Your Head. Heuristics for Software Engineering
 * Марина Перескокова - Мама, я тимлид! Практические советы по руководству IT-командой
 * Мартин Фаулер - Рефакторинг. Улучшение проекта существующего кода
