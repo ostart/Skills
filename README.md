@@ -13,8 +13,8 @@ My development skills, learning, certificates and books I've read.
 |**C# / .NET & .NET Core**         | ![done][done] | ![done][done] | ![done][done]  | 
 |**ASP.NET MVC & ASP.NET Core**    | ![done][done] | ![done][done] | ![done][done]  |
 |**SQL**                           | ![done][done] | ![done][done] | ![done][done]  |
-|**WPF & XAML**                  | ![done][done] | ![done][done] |                | 
-|**HTML5 & CSS3**                  | ![done][done] | ![done][done] |                | 
+|**WPF & XAML**                  | ![done][done] | ![done][done] |                |
+|**HTML5 & CSS3**                  | ![done][done] | ![done][done] |                |
 |**JavaScript & TypeScript**       | ![done][done] | ![done][done] |                |
 |**Css Grid & Flex-box**           | ![done][done] | ![done][done] |                |
 |**Git bash & GitHub**             | ![done][done] | ![done][done] |                |
