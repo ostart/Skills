@@ -64,6 +64,8 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Hans-Jürgen Schönig - Mastering PostgreSQL 15
+* Ганс-Юрген Шениг - PostgreSQL 11. Мастерство разработки
 * Крис Ричардсон - Микросервисы. Паттерны разработки и рефакторинга
 * Джин Ким, Кевин Бер, Джордж Спаффорд - Проект «Феникс». Роман о том, как DevOps меняет бизнес к лучшему
 * Mark Seemann - Code That Fits in Your Head. Heuristics for Software Engineering
