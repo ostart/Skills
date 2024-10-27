@@ -114,7 +114,7 @@ My development skills, learning, certificates and books I've read.
 * Joel Spolsky - More Joel on Software
 * Joel Spolsky - Joel on Software
 * Charles Petzold - Code
-* Эрик Шмидтп - Как работает Google
+* Эрик Шмидт - Как работает Google
 * Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов - Design Patterns via C#. Приемы объектно-ориентированного проектирования
 * Джеффри Рихтер - CLR via C#. Программирование на платформе Microsoft.NET Framework 4.5 на языке C#
 
