@@ -64,6 +64,7 @@ My development skills, learning, certificates and books I've read.
 
 ## Recommended Books I've read
 
+* Einar Ingebrigtsen - Metaprogramming in C#
 * Hans-Jürgen Schönig - Mastering PostgreSQL 15
 * Ганс-Юрген Шениг - PostgreSQL 11. Мастерство разработки
 * Крис Ричардсон - Микросервисы. Паттерны разработки и рефакторинга
